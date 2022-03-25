@@ -1,0 +1,15 @@
+WordNotFound.java
+ WordNotFound
+Dictionary.java
+ Dictionary
+TranslatableText.java
+ TranslatableText
+HashMapDictionary.java
+ HashMapDictionary
+ HashMapDictionary$1LevenshteinStruct
+UI_en.java
+ UI_en
+UI_ru.java
+ UI_ru
+Main.java
+ Main
